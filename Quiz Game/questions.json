@@ -157,7 +157,7 @@
         },
         {
             "question": "What does the abbreviation 'NASSCOM' stand for?",
-            "choices": ["National Association of Software and Services Companies", "National Association for Social Services and Commerce", "National Association of Software Services and Commerce", "National Association for Software and Software Companies"],
+            "choices": ["National Association of Software and Services Companies", "National Association for Social Services and Commerce"],
             "answer": "National Association of Software and Services Companies"
         },
         {
@@ -209,6 +209,56 @@
             "question": "Who is the current CEO of Microsoft Corporation?",
             "choices": ["Sundar Pichai", "Satya Nadella", "Arvind Krishna", "Tim Cook"],
             "answer": "Satya Nadella"
+        },
+        {
+            "question": "Which planet is known as the 'Red Planet'?",
+            "choices": ["Jupiter", "Mars", "Venus", "Saturn"],
+            "answer": "Mars"
+        },
+        {
+            "question": "What is the chemical symbol for the element 'Gold'?",
+            "choices": ["Ag", "Au", "Fe", "Cu"],
+            "answer": "Au"
+        },
+        {
+            "question": "Which river is the longest river in the world?",
+            "choices": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+            "answer": "Nile"
+        },
+        {
+            "question": "Which programming language was created by Guido van Rossum?",
+            "choices": ["C", "Java", "Python", "Ruby"],
+            "answer": "Python"
+        },
+        {
+            "question": "Who is the founder of Microsoft Corporation?",
+            "choices": ["Bill Gates", "Jeff Bezos", "Elon Musk", "Mark Zuckerberg"],
+            "answer": "Bill Gates"
+        },
+        {
+            "question": "What does the abbreviation 'HTML' stand for?",
+            "choices": ["HyperText Markup Language", "HyperText Media Language", "HighTech Markup Language", "HyperMedia and Text Link"],
+            "answer": "HyperText Markup Language"
+        },
+        {
+            "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+            "choices": ["Punjab", "Haryana", "Rajasthan", "Gujarat"],
+            "answer": "Punjab"
+        },
+        {
+            "question": "Which computer language is used for Android app development?",
+            "choices": ["Python", "Java", "C++", "JavaScript"],
+            "answer": "Java"
+        },
+        {
+            "question": "Who is the author of the famous play 'Hamlet'?",
+            "choices": ["William Shakespeare", "Leo Tolstoy", "Jane Austen", "Charles Dickens"],
+            "answer": "William Shakespeare"
+        },
+        {
+            "question": "What is the chemical symbol for the element 'Carbon'?",
+            "choices": ["Ca", "C", "Co", "Cr"],
+            "answer": "C"
         }
        
     ]
