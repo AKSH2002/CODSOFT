@@ -1,0 +1,215 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of India?",
+            "choices": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+            "answer": "Delhi"
+        },
+        {
+            "question": "Which river is considered the lifeline of India?",
+            "choices": ["Ganges", "Yamuna", "Brahmaputra", "Godavari"],
+            "answer": "Ganges"
+        },
+        {
+            "question": "Who is known as the 'Father of the Nation' in India?",
+            "choices": ["Jawaharlal Nehru", "Subhash Chandra Bose", "Mahatma Gandhi", "Sardar Vallabhbhai Patel"],
+            "answer": "Mahatma Gandhi"
+        },
+        {
+            "question": "Which monument in India is a symbol of eternal love?",
+            "choices": ["Taj Mahal", "Red Fort", "Qutub Minar", "Lotus Temple"],
+            "answer": "Taj Mahal"
+        },
+        {
+            "question": "What is the national game of India?",
+            "choices": ["Cricket", "Hockey", "Football", "Badminton"],
+            "answer": "Hockey"
+        },
+        {
+            "question": "Which Indian city is famous for its IT industry and is called the 'Silicon Valley of India'?",
+            "choices": ["Mumbai", "Delhi", "Hyderabad", "Bengaluru"],
+            "answer": "Bengaluru"
+        },
+        {
+            "question": "Which Indian state is famous for the backwaters and houseboats?",
+            "choices": ["Kerala", "Goa", "Rajasthan", "Himachal Pradesh"],
+            "answer": "Kerala"
+        },
+        {
+            "question": "Who composed the Indian National Anthem, 'Jana Gana Mana'?",
+            "choices": ["Rabindranath Tagore", "Swami Vivekananda", "Bankim Chandra Chattopadhyay", "Sardar Vallabhbhai Patel"],
+            "answer": "Rabindranath Tagore"
+        },
+        {
+            "question": "Which mountain range forms India's northern border?",
+            "choices": ["Himalayas", "Vindhya Range", "Western Ghats", "Aravalli Range"],
+            "answer": "Himalayas"
+        },
+        {
+            "question": "In which state is the world-famous 'Golden Temple' located?",
+            "choices": ["Punjab", "Haryana", "Rajasthan", "Gujarat"],
+            "answer": "Punjab"
+        },
+        {
+            "question": "What is the national flower of India?",
+            "choices": ["Rose", "Lotus", "Tulip", "Sunflower"],
+            "answer": "Lotus"
+        },
+        {
+            "question": "Who was the first Prime Minister of India?",
+            "choices": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Indira Gandhi", "Rajendra Prasad"],
+            "answer": "Jawaharlal Nehru"
+        },
+        {
+            "question": "Which animal is the national symbol of India?",
+            "choices": ["Lion", "Tiger", "Elephant", "Peacock"],
+            "answer": "Lion"
+        },
+        {
+            "question": "In which city is the famous 'India Gate' located?",
+            "choices": ["Mumbai", "Kolkata", "Delhi", "Chennai"],
+            "answer": "Delhi"
+        },
+        {
+            "question": "Which Indian state is known as the 'Land of the Gods'?",
+            "choices": ["Uttarakhand", "Jammu and Kashmir", "Madhya Pradesh", "Manipur"],
+            "answer": "Uttarakhand"
+        },
+        {
+            "question": "Who was the first woman Prime Minister of India?",
+            "choices": ["Indira Gandhi", "Sonia Gandhi", "Pratibha Patil", "Mother Teresa"],
+            "answer": "Indira Gandhi"
+        },
+        {
+            "question": "Which festival marks the onset of spring and is known for its vibrant colors?",
+            "choices": ["Diwali", "Holi", "Durga Puja", "Eid"],
+            "answer": "Holi"
+        },
+        {
+            "question": "Which Indian city is famous for its film industry and is often called 'Bollywood'?",
+            "choices": ["Kolkata", "Mumbai", "Chennai", "Hyderabad"],
+            "answer": "Mumbai"
+        },
+        {
+            "question": "Who wrote the Indian epic 'Ramayana'?",
+            "choices": ["Valmiki", "Vyasa", "Tulsidas", "Kalidasa"],
+            "answer": "Valmiki"
+        },
+        {
+            "question": "Which Indian city is known as the Silicon Valley of India?",
+            "choices": ["Bengaluru", "Mumbai", "Hyderabad", "Pune"],
+            "answer": "Bengaluru"
+        },
+        {
+            "question": "Who is known as the 'Father of the Indian IT Industry'?",
+            "choices": ["N. R. Narayana Murthy", "Azim Premji", "Ratan Tata", "Mukesh Ambani"],
+            "answer": "N. R. Narayana Murthy"
+        },
+        {
+            "question": "Which Indian IT company is known for its popular web browser 'UC Browser'?",
+            "choices": ["TCS", "Infosys", "Wipro", "UCWeb"],
+            "answer": "UCWeb"
+        },
+        {
+            "question": "What is the name of India's first supercomputer?",
+            "choices": ["Param", "SAGA-220", "Vikram-1001", "PARAM 8000"],
+            "answer": "Param"
+        },
+        {
+            "question": "Which Indian IT services company has the slogan 'Powered by Intellect, Driven by Values'?",
+            "choices": ["TCS", "Infosys", "Wipro", "HCL Technologies"],
+            "answer": "HCL Technologies"
+        },
+        {
+            "question": "In which year was the 'Make in India' initiative launched?",
+            "choices": ["2012", "2014", "2016", "2018"],
+            "answer": "2014"
+        },
+        {
+            "question": "Which Indian IT company is associated with the development of India's Aadhaar project?",
+            "choices": ["Infosys", "TCS", "Wipro", "UIDAI"],
+            "answer": "UIDAI"
+        },
+        {
+            "question": "Who is the current CEO of Google and Alphabet Inc.?",
+            "choices": ["Sundar Pichai", "Satya Nadella", "Shantanu Narayen", "Arvind Krishna"],
+            "answer": "Sundar Pichai"
+        },
+        {
+            "question": "Which Indian IT company's founder is associated with the establishment of the 'Shiv Nadar Foundation'?",
+            "choices": ["HCL Technologies", "Wipro", "Infosys", "TCS"],
+            "answer": "HCL Technologies"
+        },
+        {
+            "question": "Which Indian IT company is known for its cloud computing platform 'Azure'?",
+            "choices": ["Infosys", "Wipro", "TCS", "Microsoft"],
+            "answer": "Microsoft"
+        },
+        {
+            "question": "Who is the founder of the Indian multinational IT company 'Mindtree'?",
+            "choices": ["Azim Premji", "V. G. Siddhartha", "N. R. Narayana Murthy", "Shiv Nadar"],
+            "answer": "V. G. Siddhartha"
+        },
+        {
+            "question": "Which Indian IT company is known for its popular email service 'Rediffmail'?",
+            "choices": ["Infosys", "Wipro", "TCS", "Rediff.com"],
+            "answer": "Rediff.com"
+        },
+        {
+            "question": "What does the abbreviation 'NASSCOM' stand for?",
+            "choices": ["National Association of Software and Services Companies", "National Association for Social Services and Commerce", "National Association of Software Services and Commerce", "National Association for Software and Software Companies"],
+            "answer": "National Association of Software and Services Companies"
+        },
+        {
+            "question": "Who is the co-founder of the Indian IT company 'Tech Mahindra'?",
+            "choices": ["N. R. Narayana Murthy", "Anand Mahindra", "Shiv Nadar", "S. Gopalakrishnan"],
+            "answer": "Anand Mahindra"
+        },
+        {
+            "question": "Which Indian IT company is known for its popular messaging app 'Hike Messenger'?",
+            "choices": ["HCL Technologies", "Wipro", "Infosys", "Hike"],
+            "answer": "Hike"
+        },
+        {
+            "question": "What is the name of India's first indigenously developed smartphone operating system?",
+            "choices": ["Indus OS", "Bharat OS", "KaiOS", "JioOS"],
+            "answer": "Indus OS"
+        },
+        {
+            "question": "Which Indian IT company is known for its popular e-commerce platform 'Flipkart'?",
+            "choices": ["Flipkart Technologies", "Amazon India", "Snapdeal", "Walmart India"],
+            "answer": "Flipkart Technologies"
+        },
+        {
+            "question": "Which Indian IT company is known for its cybersecurity services and products?",
+            "choices": ["Wipro", "TCS", "Infosys", "Quick Heal"],
+            "answer": "Quick Heal"
+        },
+        {
+            "question": "Who is the current Chairman of Tata Sons?",
+            "choices": ["Natarajan Chandrasekaran", "Ratan Tata", "Cyrus Mistry", "Anil Ambani"],
+            "answer": "Natarajan Chandrasekaran"
+        },
+        {
+            "question": "Which Indian IT company is known for its popular messaging app 'WhatsApp'?",
+            "choices": ["HCL Technologies", "Wipro", "Infosys", "Facebook"],
+            "answer": "Facebook"
+        },
+        {
+            "question": "Who is known as the 'Bill Gates of India'?",
+            "choices": ["N. R. Narayana Murthy", "Azim Premji", "Mukesh Ambani", "Shiv Nadar"],
+            "answer": "Azim Premji"
+        },
+        {
+            "question": "Which Indian IT company is known for its popular web browser 'Opera'?",
+            "choices": ["TCS", "Infosys", "Wipro", "Opera Software"],
+            "answer": "Opera Software"
+        },
+        {
+            "question": "Who is the current CEO of Microsoft Corporation?",
+            "choices": ["Sundar Pichai", "Satya Nadella", "Arvind Krishna", "Tim Cook"],
+            "answer": "Satya Nadella"
+        }
+       
+    ]
+}
