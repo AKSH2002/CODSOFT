@@ -21,9 +21,9 @@ This app offers a convenient and efficient way to access weather data, making it
 
 ## 📷 Screenshots
 
-![App Screenshot](https://github.com/AKSH2002/CODSOFT)
-![App Screenshot](https://github.com/AKSH2002/CODSOFT)
-![App Screenshot](https://github.com/AKSH2002/CODSOFT)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/weather_forcast_app/Glimpse/SS1.png)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/weather_forcast_app/Glimpse/SS2.png)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/weather_forcast_app/Glimpse/SS3.png)
 
 ## 🛠 Tools and languges used
 VS Code, Pyhton3, tkinter, OpenWeatherMap API, requests library...
