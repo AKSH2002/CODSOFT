@@ -25,10 +25,11 @@ Join the Quiz App now to enhance your knowledge, challenge yourself, and enjoy a
 
 ## 📷 Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT)
-![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT)
-![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT)
-![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/Quiz%20Game/Glimpse/SS1.png)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/Quiz%20Game/Glimpse/SS2.png)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/Quiz%20Game/Glimpse/SS3.png)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/Quiz%20Game/Glimpse/SS4.png)
+
 
 
 ## 🛠 Tools and languges used
