@@ -23,7 +23,10 @@ When it comes to task deletion, the application ensures a streamlined process by
 
 ## 📷 Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/To-Do%20List/Glimpse/SS1.png)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/To-Do%20List/Glimpse/SS2.png)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/To-Do%20List/Glimpse/SS3.png)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/To-Do%20List/Glimpse/SS4.png)
 
 
 
