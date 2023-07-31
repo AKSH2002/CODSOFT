@@ -23,7 +23,10 @@ By allowing users to copy the generated password to their clipboard through the 
 
 ## 📷 Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/Password%20Generator/Glimpse/SS1.png)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/Password%20Generator/Glimpse/SS2.png)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/Password%20Generator/Glimpse/SS3.png)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/Password%20Generator/Glimpse/SS4.png)
 
 
 ## 🛠 Tools and languges used
