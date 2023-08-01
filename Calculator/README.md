@@ -25,7 +25,10 @@ This calculator GUI project is an excellent tool for both beginners and those lo
 
 ## 📷 Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/Calculator/Glimpse/SS1.png)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/Calculator/Glimpse/SS2.png)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/Calculator/Glimpse/SS3.png)
+![App Screenshot](https://raw.githubusercontent.com/AKSH2002/CODSOFT/master/Calculator/Glimpse/SS4.png)
 
 
 
