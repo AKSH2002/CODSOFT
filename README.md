@@ -12,11 +12,12 @@
 - Team of over 20 mentors.
 - Have helped over 1000 interns gain practical experience in the tech industry.
 
-## 💫My experience at CodSoft🌈
+## 💫 My experience at CodSoft 🌈
 
 I had the pleasure of interning at CodSoft in 2023 🗓️😄, during my internship journey at Codsoft, I had the opportunity to work on various Python projects that helped me enhance my programming skills 🚀💻, problem-solving abilities 🧠🔍, and GUI development 🎨🖌️. Each project was designed to tackle a specific challenge and showcase my creativity in implementing practical solutions 💡🔧. In this README.md file, I will provide an overview of each project, along with the links to their respective repositories on GitHub 🌐🔗.
 
 I am grateful for the opportunity to have interned at CodSoft, and I highly recommend the program to anyone who is interested in a career in tech 💻.
+
 <br>
 
 
@@ -28,7 +29,7 @@ I am grateful for the opportunity to have interned at CodSoft, and I highly reco
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aksh-darji-127316210)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akshdarji_135)
-<br>
+
 <br>
 
 
@@ -101,6 +102,7 @@ By achieving these objectives, the internship journey at CodSoft aimed to equip 
 
 ## 🛠 Tools and languges used
 VS Code, Pyhton3, tkinter, JSON, API, Git, GitHub...
+
 <br>
 
 ## 🤝 Contributing
@@ -110,6 +112,7 @@ We welcome contributions from the community to enhance and improve this project.
 See `Run Locally` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
+
 <br>
 
 ## 💻 Run Locally
