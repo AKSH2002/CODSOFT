@@ -18,7 +18,7 @@ I had the pleasure of interning at CodSoft in 2023 🗓️😄, during my intern
 
 I am grateful for the opportunity to have interned at CodSoft, and I highly recommend the program to anyone who is interested in a career in tech 💻.
 
-📚 If you're curious to know more about my journey, check out the blog here: [Blog Link](https://aksh2002.hashnode.dev/my-internship-journey-at-codsoft)
+### 📚 If you're curious to know more about my journey, check out the blog here: [Blog Link](https://aksh2002.hashnode.dev/my-internship-journey-at-codsoft)
 
 <br>
 
